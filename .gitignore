@@ -29,5 +29,5 @@ sysinfo.txt
 *.unitypackage
 
 # Completed Assets
-/_Completed-Assets/
-_Complete-Game
+/Assets/_Completed-Assets/
+/Assets/_Complete-Game
